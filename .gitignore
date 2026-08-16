@@ -1,0 +1,8 @@
+```
+# Dependencies
+node_modules/
+
+# Build artifacts
+mirea-protocol/node_modules/
+
+```
